@@ -1,0 +1,1 @@
+import{c1 as e,aI as t,a5 as o,a6 as c}from"./index.fae37851.js";const s={},a={class:"flex flex-center"},n=c("h1",null,"Logging Out...",-1),r=[n];function _(l,d){return t(),o("div",a,r)}var i=e(s,[["render",_]]);export{i as default};
