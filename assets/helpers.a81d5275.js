@@ -1,0 +1,1 @@
+const t="https://jsg.missnadhifu.com/laravel/public/api/v1",o=e=>{e===500&&(localStorage.removeItem("auth_user"),window.location.reload(!0))},r=e=>!!(e.length>0&&(e.some(a=>a.name==="Admin")||e.some(a=>a.name==="Cashier")));export{t as b,o as f,r as h};
